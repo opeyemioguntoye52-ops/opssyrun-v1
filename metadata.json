@@ -1,0 +1,6 @@
+{
+  "name": "opssyrun",
+  "description": "opssyrun — stylized 3D endless runner set in sunlit overgrown temple ruins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
